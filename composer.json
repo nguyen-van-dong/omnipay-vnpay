@@ -1,5 +1,5 @@
 {
-    "name": "phpviet/omnipay-vnpay",
+    "name": "dnsoft/omnipay-vnpay",
     "type": "library",
     "description": "Thư viện hổ trợ tích hợp cổng thanh toán VNPay.",
     "keywords": [
@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "php": "^7.1",
+        "php": ">=7.1",
         "omnipay/common": "^3.0"
     },
     "require-dev": {
